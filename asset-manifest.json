@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sancom-website/static/css/main.c5ffd022.css",
+    "main.js": "/sancom-website/static/js/main.f5e67132.js",
+    "static/js/787.b897907d.chunk.js": "/sancom-website/static/js/787.b897907d.chunk.js",
+    "index.html": "/sancom-website/index.html",
+    "main.c5ffd022.css.map": "/sancom-website/static/css/main.c5ffd022.css.map",
+    "main.f5e67132.js.map": "/sancom-website/static/js/main.f5e67132.js.map",
+    "787.b897907d.chunk.js.map": "/sancom-website/static/js/787.b897907d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5ffd022.css",
+    "static/js/main.f5e67132.js"
+  ]
+}
